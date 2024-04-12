@@ -1,0 +1,5 @@
+Time : 16:03:24
+Date : Apr 12 2024
+
+Roll No.  First_Name     Last_Name      Std./Cls    Attendence     
+2         Santosh        R              10/A               P

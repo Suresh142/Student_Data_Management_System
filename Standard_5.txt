@@ -1,0 +1,5 @@
+Time : 16:03:24
+Date : Apr 12 2024
+
+Roll No.  First_Name     Last_Name      Std./Cls    Attendence     
+1         Suresh         Kumar          5/B               A
